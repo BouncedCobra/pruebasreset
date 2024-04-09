@@ -1,4 +1,5 @@
 # pruebasreset
-## codigo para vorver todo el repositorio a un commit anterior
-git reset --hard <codigo sha de el comit al que queremos volver>
+## Codigo para vorver todo el repositorio a un commit anterior
+git reset --hard codigo sha de el comit al que queremos volver
+## Forzar commit para actualizar el repositorio
 git push origin -f

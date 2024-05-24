@@ -1,4 +1,4 @@
-# Pruebasreset
+# Pruebas Reset
 ## Codigo para ver commits
 - git log
 ## Codigo para vorver todo el repositorio a un commit anterior
